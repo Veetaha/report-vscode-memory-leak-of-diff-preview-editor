@@ -1,6 +1,6 @@
 # Memory leak of diff preview editor
 
-Link to issue at vscode repo
+[Link to issue at vscode repo](https://github.com/microsoft/vscode/issues/91782)
 
 # Steps to reproduce
 
